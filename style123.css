@@ -1,0 +1,86 @@
+html{   
+    background-image: url("joker414.jpg");
+    align-items: center;
+    justify-content: center;
+    
+}
+
+header{
+    font-size: 50px;
+    font-family: sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+
+}
+#one{
+    width: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+}
+#tagline{
+    font-size: 20px;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: blue;
+}
+#credits{
+     color: white;
+     
+     display: flex;
+     justify-content: center;
+}
+#three{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+}
+#five{
+    margin-left: 670px;
+    color: limegreen;
+     
+}
+#reviews{
+align-items: center;
+
+justify-content: center;
+margin-left: 450px;
+font-size: large;
+
+}
+#two{
+    margin-left: 600px;
+   font-size: 15px;
+}
+#seven{
+ align-items: center;
+ justify-content: center;
+ font-size: large;
+ background-color: red ;
+ color: white;
+ margin: 100px;
+ height:100px;
+ width: 200px;
+ margin-left: 650px;
+}
+a{
+    color: white;
+}
+#eight{
+    align-items: center;
+ justify-content: center;
+ font-size: large;
+ background-color: red;
+ color: white;
+ margin: 100px;
+ height:100px;
+ width: 200px;
+ margin-left: 650px;
+}
